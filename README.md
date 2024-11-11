@@ -1,4 +1,5 @@
 # Análise de Marketing Bancário
+![bank_marketing_foto](https://github.com/user-attachments/assets/46423a3d-8c47-4039-84c9-c09480f96e8c)
 
 Entender o perfil e as necessidades dos clientes é muito importante para um negócio. Em muitos casos, esse tipo de análise não só permite oferecer uma experiência personalizada aos consumidores, como também contribui para o direcionamento de campanhas e o desenvolvimento de novos produtos, entre muitas outras possibilidades.
 
@@ -6,12 +7,20 @@ Com isso em mente, este projeto contém uma análise dos dados anônimos de uma 
 
 # Objetivos
 
-O projeto tem como objetivos:
-
 *   Entender o perfil dos clientes que aderiram ou não ao produto através da campanha;
 *   Entender quais são os fatores associados à maior probabilidade de aquisição do produto;
 *   Construir um modelo que prevê se um cliente irá adquirir ou não o produto;
 *   Recomendar ações com base na análise dos dados.
+
+# Estrutura do projeto
+
+O notebook do projeto está estruturado da seguinte forma:
+1. Compreendendo o dataset
+2. Limpeza e manuseio dos dados
+3. Análise descritiva e relação entre as variáveis
+4. Teste de hipótese e perguntas de negócio
+5. Regressão logística
+6. Conclusões
 
 # Insights obtidos
 
